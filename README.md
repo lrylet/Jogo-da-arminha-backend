@@ -7,6 +7,5 @@ Entre as funções disponíveis, estão 3:
     1. Recarregar a arma;
     2. Escudo (defende o tiro do oponente);
     3. Atirar.
-A limitação em questão se dá pelo fato de que não é possível atirar sem ter pelo menos uma munição, o que torna o jogo um pouco mais estratégico e um pouco mais ousado.
 
-Atualmente o jogo é jogado através do console.
+Atualmente o jogo é pode ser testado através do terminal.
